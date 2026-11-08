@@ -1,7 +1,7 @@
 # notes
 notes only do not  add anything else on it.
 
-#description
+# description
 This is my personal notes.
 My content will mainly focus on algorithm and how to implement them.
 I will try to recall my daily learn and put on this.
